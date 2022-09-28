@@ -8,6 +8,7 @@ Namaste, World!
 
 **When other thoughts arise, one should not pursue them, but should inquire: 'To whom do they arise?' It does not matter how many thoughts arise. As each thought arises, one should inquire with diligence, "To whom has this thought arisen?". The answer that would emerge would be "To me". Thereupon if one inquires "Who am I?", the mind will go back to its source; and the thought that arose will become quiescent. With repeated practice in this manner, the mind will develop the skill to stay in its source.**
 
+
 > OM SHANTI
 
 * Sat
@@ -16,15 +17,10 @@ Namaste, World!
 
 [Portrait](https://www.google.com/search?q=ramana+maharshi&sxsrf=ALiCzsbs6v00a5BPXFZ98KeP6X8n4J7XOw:1664408359628&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyrqWo1Lj6AhVSOewKHbalCNgQ_AUoAXoECAIQAw#imgrc=pJZN1PoLvMSujM)
 
-1. Ida
-2. Pingla
-3. Sushumna
+![image](https://user-images.githubusercontent.com/74624958/192907789-3754e5d8-90f1-4c34-8f1e-054dba4babbe.png)
 
 ---
 
-'I'
-
-'''
-Ramana Maharshi
-Kundalini
-'''
+1. Ida
+2. Pingla
+3. Sushumna
