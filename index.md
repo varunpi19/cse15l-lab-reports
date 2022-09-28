@@ -15,11 +15,13 @@ Namaste, World!
 * Chit
 * Ananda
 
-[Portrait](https://www.google.com/search?q=ramana+maharshi&sxsrf=ALiCzsbs6v00a5BPXFZ98KeP6X8n4J7XOw:1664408359628&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyrqWo1Lj6AhVSOewKHbalCNgQ_AUoAXoECAIQAw#imgrc=pJZN1PoLvMSujM)
+[Ramana Maharshi](https://www.google.com/search?q=ramana+maharshi&sxsrf=ALiCzsbs6v00a5BPXFZ98KeP6X8n4J7XOw:1664408359628&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyrqWo1Lj6AhVSOewKHbalCNgQ_AUoAXoECAIQAw#imgrc=pJZN1PoLvMSujM)
 
 ![image](https://user-images.githubusercontent.com/74624958/192907789-3754e5d8-90f1-4c34-8f1e-054dba4babbe.png)
 
 ---
+
+# Kundalini
 
 1. Ida
 2. Pingla
