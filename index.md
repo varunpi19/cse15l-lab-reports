@@ -1,5 +1,7 @@
 Namaste, World!
 
+[Lab Report 1] (https://varunpi19.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+
 # Gita Verse 6.20-6.23
 
 *When the mind, absolutely restrained by the practice of concentration, attains quietitude, and when seeing the Self by the self, one is satisfied in his own Self; when he feels that infinite bliss- which is perceived by the (purified) intellect and which transcends the senses, and established wherein he never departs from his real state; and having obtained which, regards no other acquisition superior to that, and where established, he is not moved even by heavy sorrow; let that be known as the state, called by the name of Yoga- a state of severance from the contact of pain. This yoga should be practiced with perseverance, undisturbed by depression of heart*
