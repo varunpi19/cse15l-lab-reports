@@ -26,3 +26,5 @@ Namaste, World!
 1. Ida
 2. Pingla
 3. Sushumna
+
+## The end of thoughts
