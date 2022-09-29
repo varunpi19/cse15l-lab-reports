@@ -1,6 +1,6 @@
 Namaste, World!
 
-[Lab Report 1] (https://varunpi19.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+[Lab Report 1](https://varunpi19.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
 # Gita Verse 6.20-6.23
 
